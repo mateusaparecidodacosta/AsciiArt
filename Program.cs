@@ -15,7 +15,7 @@ Console.WriteLine();
 
 Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("Exagerado");
-Console.WriteLine("Jogado aos teus pés, eu sou mesmo exagerado");
+Console.WriteLine("Jogado aos teus pés, eu sou mesmgito exagerado");
 Console.WriteLine("Adoro um amor inventado");
 Console.ResetColor();
 Console.WriteLine();
